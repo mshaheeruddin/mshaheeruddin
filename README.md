@@ -1,6 +1,6 @@
 ![mshaheeruddin](https://github.com/mshaheeruddin/mshaheeruddin/blob/main/git.png))
 
-- 👋 Hi, I’m @mshaheeruddin
+- 👋 Hi, I’m Shaheer
 - 👀 I’m interested in learning programming and playing cricket..
 - 🌱 I’m currently learning about Blockchain...
 - 💞️ I’m looking to collaborate on different learning activities  ...
