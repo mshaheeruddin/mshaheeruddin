@@ -1,4 +1,4 @@
-![alt text](http://https://github.com/mshaheeruddin/mshaheeruddin/blob/main/git.png)
+![mshaheeruddin](https://github.com/mshaheeruddin/mshaheeruddin/blob/main/git.png))
 
 - 👋 Hi, I’m @mshaheeruddin
 - 👀 I’m interested in learning programming and playing cricket..
