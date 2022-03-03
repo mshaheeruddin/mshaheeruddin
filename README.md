@@ -12,8 +12,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=mshaheeruddin&theme=great-gatsby&show_icons=true)
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mshaheeruddin&theme=great-gatsby&show_icons=true&locale=en&layout=compact"
-    alt="adam-pw" /></p>
+    alt="mshaheeruddin" /></p>
 
 ![Shaheer's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mshaheeruddin&theme=great-gatsby)
