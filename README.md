@@ -1,7 +1,7 @@
 ![mshaheeruddin](https://github.com/mshaheeruddin/mshaheeruddin/blob/main/git.png))
 
-- 👋 Hi, I’m Shaheer
-- 👀 I’m interested in learning programming and playing cricket..
+- 👋 Hi, I'm Shaheer
+- 👀 I’m interested in learning different programming languages and playing cricket..
 - 🌱 I’m currently learning about Blockchain...
 - 💞️ I’m looking to collaborate on different learning activities  ...
 - 📫 m.uddin_19757@khi.iba.edu.pk ...
@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
     alt="mshaheeruddin" /></p>
 
 ![Shaheer's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mshaheeruddin&theme=great-gatsby)
+
