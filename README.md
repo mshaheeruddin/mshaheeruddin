@@ -1,5 +1,14 @@
 ### Hi there 👋
-([![Typing SVG(https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hey%2C+It's+Shaheer;I+am+a+Full+Stack+Developer;I+love+reading+fiction+books;Let's+connect+and+contribute!)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&width=435&lines=Hey%2C+It's+Shaheer;I+am+a+Full+Stack+Developer;I+love+reading+fiction+books;Let's+connect+and+contribute!)](https://git.io/typing-svg)
+
+
+## 🙋‍♂️ About Me
+
+- 📝 I’m currently working on **Virtual try-on E-store**
+
+- 🌱 I’m currently learning **Flutter App developement.**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
 ## 🙋‍♂️ About Me
