@@ -6,7 +6,7 @@
 
 - 📝 I’m currently working on **Blogging App using Next JS**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
